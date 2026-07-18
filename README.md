@@ -27,8 +27,6 @@ git clone https://github.com/enrilinux/tui-notes.git
 cd tui-notes
 
 ## Build and install
-
-```bash
 make && make install
 ```
 
